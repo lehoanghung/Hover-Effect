@@ -19,23 +19,32 @@
             <div id="example-01">
                 <ul class='kwicks02 kwicks-horizontal'>
                     <li class="kwicks-selected">
-                        <div class="inner">
-                            <img src="images/02.jpg" alt="">
+                        <div class="hblock-content">
+                            <div class="inner">
+                                <img src="images/02.jpg" alt="">
+                            </div>
+                        </div>
+
+                    </li>
+                    <li >
+                        <div class="hblock-content">
+                            <div class="inner">
+                                <img src="images/03.jpg" alt="">
+                            </div>
                         </div>
                     </li>
                     <li >
-                        <div class="inner">
-                            <img src="images/03.jpg" alt="">
+                        <div class="hblock-content">
+                            <div class="inner">
+                                <img src="images/04.jpg" alt="">
+                            </div>
                         </div>
                     </li>
                     <li >
-                        <div class="inner">
-                            <img src="images/04.jpg" alt="">
-                        </div>
-                    </li>
-                    <li >
-                        <div class="inner">
-                            <img src="images/05.jpg" alt="">
+                        <div class="hblock-content">
+                            <div class="inner">
+                                <img src="images/05.jpg" alt="">
+                            </div>
                         </div>
                     </li>
                 </ul>
