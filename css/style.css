@@ -1,0 +1,38 @@
+.kwicks02 > li {
+  height: 300px;
+  background-color: transparent;
+  /* overridden by kwicks but good for when JavaScript is disabled */
+  margin-left: 5px;
+  float: left;
+  list-style: none;
+  display: block;
+  overflow: hidden;
+  cursor: pointer;
+  border: 1px solid #e1e1e1;
+  border-radius: 9px;
+  -moz-border-radius: 9px;
+  -webkit-border-radius: 9px;
+}
+#panel-1 {
+  background-color: #53b388;
+}
+#panel-2 {
+  background-color: #5a69a9;
+}
+#panel-3 {
+  background-color: #c26468;
+}
+#panel-4 {
+  background-color: #bf7cc7;
+}
+.hblock-content {
+  max-height: 300px;
+  max-width: 300px;
+}
+.kwicks02 .inner {
+  overflow: hidden;
+}
+.kwicks02 .inner img {
+  width: auto;
+  height: 100%;
+}
